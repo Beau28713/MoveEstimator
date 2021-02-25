@@ -1,0 +1,6 @@
+C:\Users\beau2\OneDrive\Desktop\Code\C#\MoveEstimator\bin\Debug\ConsoleApplication.exe
+C:\Users\beau2\OneDrive\Desktop\Code\C#\MoveEstimator\bin\Debug\ConsoleApplication.pdb
+C:\Users\beau2\OneDrive\Desktop\Code\C#\MoveEstimator\obj\x86\Debug\MoveEstimator.csprojAssemblyReference.cache
+C:\Users\beau2\OneDrive\Desktop\Code\C#\MoveEstimator\obj\x86\Debug\MoveEstimator.csproj.CoreCompileInputs.cache
+C:\Users\beau2\OneDrive\Desktop\Code\C#\MoveEstimator\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\beau2\OneDrive\Desktop\Code\C#\MoveEstimator\obj\x86\Debug\ConsoleApplication.pdb
